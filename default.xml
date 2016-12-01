@@ -2,6 +2,6 @@
 <manifest>
     <include name="common.xml" />
 	<project name="https://github.com/pcduino/a20-kernel.git" remote="github" path="debian_linux" />
-    <project name="segmetics/sunxi-boards.git" remote="bitbucket" path="sunxi-boards" />
+    <project name="https://github.com/huanfei/linux.git" remote="github" path="debian_linux/linux" />
     
 </manifest>
