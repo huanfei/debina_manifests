@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <include name="common.xml" />
-	<project name="pcduino/a20-kernel.git" remote="github" path="debian_linux" />
+    <project name="pcduino/a20-kernel.git" remote="github" path="debian_linux" />
     <project name="huanfei/linux.git" remote="github" path="debian_linux/linux" />
     
 </manifest>
