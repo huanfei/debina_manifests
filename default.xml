@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <include name="common.xml" />
-    <include name="common.xml" />
     <project name="Huanfei/debian_root.git" remote="bitbucket" path="./" />
     <project name="Huanfei/sunxi-tools.git" remote="bitbucket" path="sunxi-tools" />
     <project name="Huanfei/sunxi-boards.git" remote="bitbucket" path="sunxi-boards" />
