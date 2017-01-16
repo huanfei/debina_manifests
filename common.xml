@@ -2,5 +2,5 @@
 <manifest>
     <remote name="bitbucket" fetch="ssh://git@bitbucket.org/" />
     <remote name="github" fetch="https://github.com/" />
-    <default revision="refs/heads/master" remote="bitbucket" sync-j="4" />
+    <default revision="refs/heads/repotmp" remote="bitbucket" sync-j="4" />
 </manifest>
