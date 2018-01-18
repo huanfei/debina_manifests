@@ -6,5 +6,5 @@
     <project name="Huanfei/sunxi-boards.git" remote="bitbucket" path="sunxi-boards" />
     <project name="Huanfei/u-boot-mainline.git" remote="bitbucket" path="u-boot" />
     <project name="Huanfei/allwinner-tools.git" remote="bitbucket" path="allwinner-tools" />
-    <project name="huanfei/linux.git" remote="github" path="linux" />
+    <project revision="tmp" name="huanfei/linux.git" remote="github" path="linux" />
 </manifest>
